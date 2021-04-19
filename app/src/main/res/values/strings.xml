@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="criar_usuario">Criar Usuário</string>
+    <string name="senha">senha</string>
+    <string name="e_mail">e-mail</string>
+</resources>
